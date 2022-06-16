@@ -6,7 +6,7 @@ properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKe
 
 echo "Job name is: {env.JOB_NAME}"
 echo "Node name is: {env.NODE_NAME}"
-echo "Build number is: {env.BUILD_NUMBER}
+echo "Build number is: {env.BUILD_NUMBER}"
 
 stage('CheckoutCode')
 {

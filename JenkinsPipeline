@@ -9,6 +9,7 @@ echo "Node name is: ${env.NODE_NAME}"
 echo "Build number is: ${env.BUILD_NUMBER}"
 
 try{
+notifyBuild('STARTED')
 stage('CheckoutCode')
 {
 git branch: 'development', credentialsId: '9502baba-1451-47e4-9f86-ecdca4d2d5e8', url: 'https://github.com/DevOps-engrs/maven-web-application.git'    

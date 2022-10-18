@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions. Bengaluru,Karnataka </h1>
+<h1 align="center">Welcome to Vignan Tech Solutions. Bengaluru,Karnataka </h1>
 <h1 align="center"> Vignan Tech Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore and Hyderabad India, it is for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
